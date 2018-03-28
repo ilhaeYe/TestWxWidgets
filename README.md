@@ -8,4 +8,5 @@ Required 'libwx_osx_cocoa_static.a' frameworks file that builded in WxWidgets pr
 ```
 
 - result
+
 ![Alt text](/TestWxWidgets.png)
